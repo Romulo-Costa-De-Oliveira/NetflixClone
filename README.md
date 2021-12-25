@@ -1,2 +1,2 @@
 # netflixClone
-Modelo similar a pagina inicial do Netflix construido em Reactjs utilizando a API do TMDB para obtenção de dados.
+Modelo similar a página inicial do Netflix construído em Reactjs, utilizando a API do TMDB para obtenção de dados.
